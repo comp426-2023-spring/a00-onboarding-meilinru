@@ -1,6 +1,6 @@
 Install checked: 
 
-SYSTEM:	Darwin meilins-air.wireless-1x.unc.edu 21.2.0 Darwin Kernel Version 21.2.0: Sun Nov 28 20:28:54 PST 2021; root:xnu-8019.61.5~1/RELEASE_X86_64 x86_64
+SYSTEM:	Darwin Meilins-MacBook-Air.local 21.2.0 Darwin Kernel Version 21.2.0: Sun Nov 28 20:28:54 PST 2021; root:xnu-8019.61.5~1/RELEASE_X86_64 x86_64
 SHELL:	[/bin/bash]
 GIT:	[/usr/bin/git] git version 2.30.1 (Apple Git-130)
 VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Nov 13 2021 05:04:57)
